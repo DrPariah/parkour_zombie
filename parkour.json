@@ -2,7 +2,7 @@
     {
 "id": "mon_Parkour_zombie",
     "type": "MONSTER",
-    "Name": "Parkour Zombie",
+    "name ": "Parkour Zombie",
     "description": "This zombie seems extremly fast and capable of fighting, and it just did a sick flip.",
     "default_faction": "zombie",
     "bodytype": "human",
