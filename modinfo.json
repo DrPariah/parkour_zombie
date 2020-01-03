@@ -3,6 +3,7 @@
     "type": "MOD_INFO",
     "ident": "Parkour_zombie",
     "name": "Parkour Zombie",
+    "author": [ "Jninja1" ],
     "description": "Adds a zombie that can do parkour.",
     "category": "creatures",
     "dependencies": [ "dda" ],
