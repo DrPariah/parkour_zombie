@@ -32,13 +32,13 @@
         "damage_max_instance": [ { "damage_type": "stab", "amount": 10, "armor_multiplier": 0.7 } ]
       }
     ],
-    "death_drops": "default_zombie_death_drops",
-    "death_function": [ "NORMAL" ],
-    "burn_into": "mon_zombie_scorched",
-    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "POISON", "NO_BREATHE", "REVIVES", "PUSH_MON", "CLIMBS", "FILTHY" ],
-        "monster" : [
-        { "monster" : "mon_Parkour_zombie", "freq": 60, "multiplier" : 0}
+   {
+    "name" : "GROUP_ZOMBIE",
+    "default" : "mon_zombie",
+    "monsters" : [
+        { "monster" : "mon_Parkour_zombie", "freq" : 60, "multiplier" : 0 },
+        }
     ]
-    },
-    { }
+}
+    }
     ]
