@@ -31,7 +31,7 @@
         "cooldown": 5,
         "damage_max_instance": [ { "damage_type": "stab", "amount": 10, "armor_multiplier": 0.7 } ]
       }
-    ]
+    ],
    {
     "name" : "GROUP_ZOMBIE",
     "default" : "mon_zombie",
