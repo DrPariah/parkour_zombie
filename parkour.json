@@ -36,7 +36,7 @@
     "death_function": [ "NORMAL" ],
     "burn_into": "mon_zombie_scorched",
     "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "POISON", "NO_BREATHE", "REVIVES", "PUSH_MON", "CLIMBS", "FILTHY" ],
-     {  "type": "monstergroup",
+       "type": "monstergroup",
         "name": "GROUP_PARKOUR",
         "default": "mon_null",
         "monster" : [
