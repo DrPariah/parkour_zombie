@@ -24,7 +24,7 @@
     "vision_day": 40,
     "vision_night": 3,
     "harvest": "zombie",
-    "path_settings": { "max_dist": 4 },
+    "path_settings": { "max_dist": 10 },
     "special_attacks": [
       [ "scratch", 10 ],
       {
