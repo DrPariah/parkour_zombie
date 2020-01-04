@@ -2,8 +2,8 @@
     {
 "id": "mon_Parkour_zombie",
     "type": "MONSTER",
-    "name ": "Parkour Zombie",
-    "description": "This zombie seems extremly fast and capable of fighting, and it just did a sick flip.",
+    "name": "Parkour Zombie",
+    "description": "This zombie seems extremely fast and capable of fighting, and it just did a sick flip.",
     "default_faction": "zombie",
     "bodytype": "human",
     "species": [ "ZOMBIE", "HUMAN" ],
@@ -33,7 +33,7 @@
       }
     ],
    
-    "name" : "GROUP_ZOMBIE",
+    
     "default" : "mon_zombie",
     "monsters" : [
         { "monster" : "mon_Parkour_zombie", "freq" : 60, "multiplier" : 0 }
